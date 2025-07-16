@@ -1,4 +1,4 @@
-// enhanced-server.js - Complete GitHub Contributors Badge Service
+// server.js - Complete GitHub Contributors Badge Service
 const express = require('express');
 const axios = require('axios');
 const app = express();
